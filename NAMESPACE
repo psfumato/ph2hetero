@@ -1,0 +1,8 @@
+export(design.parashar)
+export(design.jones)
+export(design.tournoux)
+import(stats)
+import(utils)
+import(mvtnorm)
+import(clinfun)
+useDynLib(ph2hetero, .registration = TRUE)

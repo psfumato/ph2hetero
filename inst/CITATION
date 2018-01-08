@@ -1,0 +1,10 @@
+citHeader("To cite 'ph2hetero' in publications use:")
+
+citEntry(entry = "Manual",
+         title = "ph2hetero: Adaptive Designs for Two-Stage Phase II Studies",
+         author = "Patrick Sfumato, Thomas Filleron, Bastien Cabarrou",
+         year = "2018",
+         url = "https://github.com/psfumato/ph2hetero",
+         note = "R package version 1.0",
+         textVersion = "Patrick Sfumato, Thomas Filleron and Bastien Cabarrou. (2018). ph2hetero: Adaptive Designs for Two-Stage Phase II Studies. R package version 1.0, https://github.com/psfumato/ph2hetero.")
+

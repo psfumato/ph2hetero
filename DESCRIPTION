@@ -1,0 +1,12 @@
+Package: ph2hetero
+Type: Package
+Title: Adaptive Designs for Two-Stage Phase II Studies
+Version: 1.0
+Date: 2018-01-08
+Author: Patrick Sfumato, Thomas Filleron and Bastien Cabarrou
+Maintainer: Patrick Sfumato <sfumatop@gmail.com>
+Description: Implementation of Jones (Jones, 2007), Tournoux-Facon (Tournoux, 2011) and Parashar (Parashar, 2016) designs.
+Depends: mvtnorm, clinfun, R (>= 3.0.3)
+License: GPL
+LazyLoad: yes
+
